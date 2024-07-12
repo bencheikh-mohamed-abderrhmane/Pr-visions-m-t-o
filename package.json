@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bencheikh-mohamed-abderrhmane.github.io/Pr-visions-m-t-o/",
+  "homepage": "https://bencheikh-mohamed-abderrhmane.github.io/Pr-visions-m-t-o",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
